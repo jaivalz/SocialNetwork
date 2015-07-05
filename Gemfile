@@ -26,6 +26,9 @@ gem 'devise'
 # Gravatar
 gem 'gravatarify', '~> 3.0.0'
 
+# Public activity Gem
+gem 'public_activity'
+
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
