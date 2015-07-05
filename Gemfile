@@ -29,6 +29,9 @@ gem 'gravatarify', '~> 3.0.0'
 # Public activity Gem
 gem 'public_activity'
 
+# Auto_html gem
+gem 'auto_html'
+
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
